@@ -1,6 +1,6 @@
-#NFT Marketplace
+# NFT Market
 
-##installing
+## installing
 
 `npm install`
 
